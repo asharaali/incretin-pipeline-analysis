@@ -1,0 +1,21 @@
+drug_id,generic_name,brand_names,sponsor,mechanism_class,n_targets,route,molecule_type,primary_indication,highest_status,search_term
+semaglutide_sc_t2d,semaglutide,Ozempic,Novo Nordisk,GLP-1 RA,1,subcutaneous,peptide,Type 2 Diabetes,Marketed,semaglutide
+semaglutide_sc_ob,semaglutide,Wegovy,Novo Nordisk,GLP-1 RA,1,subcutaneous,peptide,Obesity,Marketed,semaglutide
+semaglutide_oral,semaglutide,Rybelsus,Novo Nordisk,GLP-1 RA,1,oral,peptide,Type 2 Diabetes,Marketed,semaglutide
+tirzepatide_t2d,tirzepatide,Mounjaro,Eli Lilly,GLP-1/GIP dual,2,subcutaneous,peptide,Type 2 Diabetes,Marketed,tirzepatide
+tirzepatide_ob,tirzepatide,Zepbound,Eli Lilly,GLP-1/GIP dual,2,subcutaneous,peptide,Obesity,Marketed,tirzepatide
+dulaglutide,dulaglutide,Trulicity,Eli Lilly,GLP-1 RA,1,subcutaneous,peptide,Type 2 Diabetes,Marketed,dulaglutide
+liraglutide_t2d,liraglutide,Victoza,Novo Nordisk,GLP-1 RA,1,subcutaneous,peptide,Type 2 Diabetes,Marketed,liraglutide
+liraglutide_ob,liraglutide,Saxenda,Novo Nordisk,GLP-1 RA,1,subcutaneous,peptide,Obesity,Marketed,liraglutide
+retatrutide,retatrutide,LY3437943,Eli Lilly,GLP-1/GIP/glucagon triple,3,subcutaneous,peptide,Obesity,Phase 3,retatrutide
+orforglipron,orforglipron,LY3502970,Eli Lilly,GLP-1 RA,1,oral,small molecule,Obesity,Phase 3,orforglipron
+cagrisema,cagrilintide+semaglutide,CagriSema,Novo Nordisk,amylin + GLP-1,2,subcutaneous,peptide,Obesity,Phase 3,cagrisema
+survodutide,survodutide,BI 456906,Boehringer Ingelheim,GLP-1/glucagon dual,2,subcutaneous,peptide,Obesity,Phase 3,survodutide
+mazdutide,mazdutide,IBI362,Innovent/Eli Lilly,GLP-1/glucagon dual,2,subcutaneous,peptide,Obesity,Phase 3,mazdutide
+amycretin_sc,amycretin,NNC0487-0111,Novo Nordisk,amylin + GLP-1,2,subcutaneous,peptide,Obesity,Phase 2,amycretin
+amycretin_oral,amycretin,NNC0519-0130,Novo Nordisk,amylin + GLP-1,2,oral,peptide,Obesity,Phase 2,amycretin
+vk2735_sc,VK2735,bofanglutide,Viking Therapeutics,GLP-1/GIP dual,2,subcutaneous,peptide,Obesity,Phase 2,VK2735
+vk2735_oral,VK2735,bofanglutide,Viking Therapeutics,GLP-1/GIP dual,2,oral,peptide,Obesity,Phase 2,VK2735
+pemvidutide,pemvidutide,ALT-801,Altimmune,GLP-1/glucagon dual,2,subcutaneous,peptide,Obesity,Phase 2,pemvidutide
+ecnoglutide,ecnoglutide,XW003,Sciwind Biosciences,GLP-1 RA,1,subcutaneous,peptide,Obesity,Phase 3,ecnoglutide
+danuglipron,danuglipron,PF-06882961,Pfizer,GLP-1 RA,1,oral,small molecule,Obesity,Discontinued,danuglipron

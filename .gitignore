@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# Raw API dump can be large + regenerable; keep processed CSV in version control.
+data/raw/trials_raw.json

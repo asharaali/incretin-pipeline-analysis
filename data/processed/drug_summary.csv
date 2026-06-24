@@ -1,0 +1,14 @@
+matched_generic,cohort,mechanism_class,trials,median_enrollment
+semaglutide,Marketed,GLP-1 RA,706,120.0
+liraglutide,Marketed,GLP-1 RA,464,62.5
+tirzepatide,Marketed,GLP-1/GIP dual,188,112.5
+dulaglutide,Marketed,GLP-1 RA,102,125.0
+orforglipron,Pipeline,GLP-1 RA,43,150.0
+retatrutide,Pipeline,GLP-1/GIP/glucagon triple,27,198.0
+mazdutide,Pipeline,GLP-1/glucagon dual,26,172.0
+survodutide,Pipeline,GLP-1/glucagon dual,22,115.0
+danuglipron,Pipeline,GLP-1 RA,20,29.0
+ecnoglutide,Pipeline,GLP-1 RA,11,140.0
+pemvidutide,Pipeline,GLP-1/glucagon dual,7,100.0
+VK2735,Pipeline,GLP-1/GIP dual,5,280.0
+amycretin,Pipeline,amylin + GLP-1,1,36.0

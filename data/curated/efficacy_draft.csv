@@ -1,0 +1,17 @@
+drug_id,generic_name,top_dose,population,weight_loss_pct,a1c_reduction_pct,trial_duration_wks,key_trial,trial_phase,citation_status
+semaglutide_sc_ob,semaglutide 2.4mg,2.4mg,Obesity,14.9,,68,STEP 1,Marketed,VERIFY
+semaglutide_sc_t2d,semaglutide 1.0mg,1.0mg,Type 2 Diabetes,,1.8,40,SUSTAIN 6,Marketed,VERIFY
+semaglutide_oral,oral semaglutide 14mg,14mg,Type 2 Diabetes,,1.4,26,PIONEER 1,Marketed,VERIFY
+tirzepatide_ob,tirzepatide 15mg,15mg,Obesity,20.9,,72,SURMOUNT-1,Marketed,VERIFY
+tirzepatide_t2d,tirzepatide 15mg,15mg,Type 2 Diabetes,,2.3,40,SURPASS-2,Marketed,VERIFY
+liraglutide_ob,liraglutide 3.0mg,3.0mg,Obesity,8.0,,56,SCALE Obesity,Marketed,VERIFY
+dulaglutide,dulaglutide 4.5mg,4.5mg,Type 2 Diabetes,,1.9,52,AWARD-11,Marketed,VERIFY
+retatrutide,retatrutide 12mg,12mg,Obesity,24.2,,48,Phase 2 (Jastreboff 2023),Phase 3,VERIFY
+orforglipron,orforglipron 36mg,36mg,Obesity,14.7,,36,Phase 2 (Wharton 2023),Phase 3,VERIFY
+cagrisema,CagriSema,2.4+2.4mg,Obesity,22.7,,68,REDEFINE 1,Phase 3,VERIFY
+survodutide,survodutide 4.8mg,4.8mg,Obesity,18.7,,46,Phase 2 (le Roux 2024),Phase 3,VERIFY
+mazdutide,mazdutide 6mg,6mg,Obesity,14.4,,48,GLORY-1,Phase 3,VERIFY
+amycretin_sc,amycretin SC,,Obesity,22.0,,36,Phase 1 SC,Phase 2,VERIFY
+amycretin_oral,amycretin oral,,Obesity,13.1,,12,Phase 1 oral,Phase 2,VERIFY
+vk2735_sc,VK2735 SC,,Obesity,14.7,,13,VENTURE Phase 2,Phase 2,VERIFY
+pemvidutide,pemvidutide 1.8mg,1.8mg,Obesity,15.6,,48,MOMENTUM,Phase 2,VERIFY
