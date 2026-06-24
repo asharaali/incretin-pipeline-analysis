@@ -1,0 +1,17 @@
+drug_id,generic_name,top_dose,population,weight_loss_pct,a1c_reduction_pct,timepoint_wks,key_trial,phase_at_readout,estimand,source,verified
+semaglutide_sc_ob,semaglutide,2.4 mg,Obesity,14.9,,68,STEP 1,Phase 3 (marketed),treatment-policy,Wilding NEJM 2021 (NEJMoa2032183),web-verified-2026-06
+semaglutide_sc_t2d,semaglutide,1.0 mg,Type 2 Diabetes,,1.86,40,SURPASS-2 active comparator,Phase 3 (marketed),treatment-regimen,Frias NEJM 2021 (NEJMoa2107519),web-verified-2026-06
+semaglutide_oral,semaglutide,14 mg,Type 2 Diabetes,,1.4,26,PIONEER 1,Phase 3 (marketed),treatment-policy,Aroda Diabetes Care 2019,needs-verify
+tirzepatide_ob,tirzepatide,15 mg,Obesity,20.9,,72,SURMOUNT-1,Phase 3 (marketed),treatment-regimen,Jastreboff NEJM 2022 (NEJMoa2206038),web-verified-2026-06
+tirzepatide_t2d,tirzepatide,15 mg,Type 2 Diabetes,,2.46,40,SURPASS-2,Phase 3 (marketed),treatment-regimen,Frias NEJM 2021 (NEJMoa2107519),web-verified-2026-06
+liraglutide_ob,liraglutide,3.0 mg,Obesity,8.0,,56,SCALE Obesity,Phase 3 (marketed),treatment-policy,Pi-Sunyer NEJM 2015 (NEJMoa1411892),needs-verify
+dulaglutide,dulaglutide,4.5 mg,Type 2 Diabetes,,1.77,52,AWARD-11,Phase 3 (marketed),treatment-regimen,Frias Diabetes Care 2021,needs-verify
+retatrutide,retatrutide,12 mg,Obesity,24.2,,48,Retatrutide Phase 2,Phase 2,efficacy (completer),Jastreboff NEJM 2023 (NEJMoa2301972),web-verified-2026-06
+orforglipron,orforglipron,36 mg,Obesity,12.4,,72,ATTAIN-1,Phase 3,treatment-regimen,Lilly/NEJM 2025 (ATTAIN-1; Ph2 was 14.7% at 36 wk),web-verified-2026-06
+cagrisema,cagrilintide+semaglutide,2.4+2.4 mg,Obesity,20.4,,68,REDEFINE 1,Phase 3,treatment-policy,NEJM 2025 (trial-product estimand 22.7%),web-verified-2026-06
+survodutide,survodutide,4.8 mg,Obesity,14.9,,46,Survodutide Phase 2,Phase 2,treatment-policy,le Roux Lancet Diab Endo 2024,web-verified-2026-06
+mazdutide,mazdutide,6 mg,Obesity,14.4,,48,GLORY-1,Phase 3,treatment-regimen,Innovent GLORY-1 2024 (China),needs-verify
+amycretin_sc,amycretin,60 mg,Obesity,24.3,,36,Amycretin Phase 1b/2a SC,Phase 1b/2a,treatment-regimen,Dahl Lancet 2025 (PIIS0140-6736(25)01185-7),web-verified-2026-06
+amycretin_oral,amycretin,50 mg,Obesity,13.1,,12,Amycretin Phase 1 oral,Phase 1,treatment-regimen,Novo/Lancet 2025 (12-week readout),needs-verify
+vk2735_sc,VK2735,subcutaneous,Obesity,14.7,,13,VENTURE,Phase 2,treatment-regimen,Bays Obesity 2026 (oby.70106),web-verified-2026-06
+pemvidutide,pemvidutide,2.4 mg,Obesity,15.6,,48,MOMENTUM,Phase 2,treatment-regimen,Altimmune ADA 2024 (262-OR),web-verified-2026-06

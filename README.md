@@ -50,7 +50,7 @@ python src/analyze_landscape.py        # generate tables + figures
 ```
 data/
   curated/   drug_reference.csv     drug master: mechanism, route, molecule type, status
-             efficacy_draft.csv     curated pivotal-trial outcomes (DRAFT — see caveat)
+             efficacy.csv           curated pivotal-trial outcomes w/ source + estimand
   processed/ trials.csv             flattened live trial metadata
              drug_summary.csv       per-drug rollup
 src/
@@ -61,10 +61,13 @@ figures/                            generated charts
 
 ## ⚠️ Data caveat
 
-Efficacy figures in `efficacy_draft.csv` are flagged `VERIFY` and are **not yet citation-grade**.
-Every number must be confirmed against the primary publication (with dose, population, timepoint, and
-whether the value is total or placebo-adjusted) before any external use or manuscript submission.
-Trial metadata from ClinicalTrials.gov is authoritative and regenerable.
+Efficacy figures in `efficacy.csv` carry a `source`, `estimand`, `timepoint_wks`, and `verified` column.
+Rows marked `web-verified-2026-06` were checked against the primary publication / sponsor release;
+rows marked `needs-verify` still require confirmation. Because trials differ in **timepoint (13–72 wks)**,
+**population**, and **estimand** (treatment-policy vs treatment-regimen vs efficacy/completer), the
+efficacy-frontier figure is a **descriptive landscape, not a head-to-head comparison** — head-to-head
+claims require matched estimands and direct or network meta-analysis. Trial metadata from
+ClinicalTrials.gov is authoritative and regenerable.
 
 ## License
 

@@ -22,7 +22,7 @@ PROC = ROOT / "data" / "processed"
 
 trials = pd.read_csv(PROC / "trials.csv")
 ref = pd.read_csv(ROOT / "data" / "curated" / "drug_reference.csv")
-eff = pd.read_csv(ROOT / "data" / "curated" / "efficacy_draft.csv")
+eff = pd.read_csv(ROOT / "data" / "curated" / "efficacy.csv")
 
 # --- generic-level attribute map (mechanism/status are consistent per generic) ---
 gattr = (ref.sort_values("highest_status")
@@ -105,10 +105,14 @@ for route, g in ef.groupby("route"):
                      fontsize=7, xytext=(5, 4), textcoords="offset points")
 plt.xticks([1, 2, 3], ["mono", "dual", "triple"])
 plt.xlabel("Receptor targets (mechanism complexity)")
-plt.ylabel("Peak weight loss (%)  [DRAFT - verify]")
-plt.title("Efficacy frontier teaser: more targets -> more weight loss?")
+plt.ylabel("Peak weight loss (%)")
+plt.title("Efficacy frontier: peak weight loss vs mechanism complexity")
+plt.figtext(0.5, -0.04,
+            "Top dose, obesity populations. Timepoints vary (13-72 wks) and estimands "
+            "differ across trials -- see data/curated/efficacy.csv. Not a head-to-head comparison.",
+            ha="center", fontsize=7, style="italic", wrap=True)
 plt.legend(title="Route")
-save("05_efficacy_frontier_teaser.png")
+save("05_efficacy_frontier.png")
 
 # --- summary tables ---
 summary = (t.groupby(["matched_generic", "cohort", "mechanism_class"])
