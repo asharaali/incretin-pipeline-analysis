@@ -32,11 +32,20 @@ FIELDS = ",".join([
 
 
 def search_terms():
-    """Unique drug search terms from the reference table."""
+    """Unique drug search terms from the reference table.
+
+    A drug's `search_term` cell may hold several "|"-separated aliases. Some
+    candidates are registered on ClinicalTrials.gov only under a sponsor code
+    (amycretin -> NNC0487-0111 / NNC0519-0130), so searching the generic name
+    alone undercounts them badly.
+    """
     terms = {}
     with open(REF, newline="") as f:
         for row in csv.DictReader(f):
-            terms.setdefault(row["search_term"], row["generic_name"])
+            for alias in row["search_term"].split("|"):
+                alias = alias.strip()
+                if alias:
+                    terms.setdefault(alias, row["generic_name"])
     return terms
 
 
@@ -91,28 +100,43 @@ def flatten(study, matched_term, matched_generic):
         "primary_completion": get(p, "statusModule", "primaryCompletionDateStruct", "date", default=""),
         "matched_term": matched_term,
         "matched_generic": matched_generic,
+        "attributed_term": matched_term,
+        "ambiguous": "no",
     }
 
 
 def main():
     terms = search_terms()
-    raw, rows, seen = [], [], {}
+    raw, seen, hits, corpus = [], {}, {}, {}
     for term, generic in terms.items():
         print(f"  fetching {term} ...", end="", flush=True)
         studies = fetch_term(term)
         print(f" {len(studies)} studies")
+        corpus[term] = len(studies)
         for s in studies:
             raw.append(s)
             row = flatten(s, term, generic)
             nct = row["nct_id"]
             if not nct:
                 continue
-            if nct in seen:
-                # trial already captured under another drug term -> note the overlap
-                seen[nct]["matched_term"] += f";{term}"
-            else:
-                seen[nct] = row
-                rows.append(row)
+            seen.setdefault(nct, row)
+            hits.setdefault(nct, []).append(term)
+
+    # Attribution: a trial matching several drug terms belongs to the most
+    # SPECIFIC one -- the term with the smallest corpus. Without this, a
+    # CagriSema trial (which names semaglutide as a component) is swallowed by
+    # the semaglutide corpus and the combination drug disappears entirely.
+    # Corpus size is a stable proxy for specificity and, unlike first-seen-wins,
+    # does not depend on the order rows happen to sit in the reference table.
+    rows = []
+    for nct, row in seen.items():
+        matched = sorted(hits[nct], key=lambda x: (corpus[x], x))
+        best = matched[0]
+        row["matched_term"] = ";".join(matched)
+        row["matched_generic"] = terms[best]
+        row["attributed_term"] = best
+        row["ambiguous"] = "yes" if len(matched) > 1 else "no"
+        rows.append(row)
 
     RAW_OUT.write_text(json.dumps(raw, indent=2))
     with open(CSV_OUT, "w", newline="") as f:
@@ -120,7 +144,9 @@ def main():
         w.writeheader()
         w.writerows(rows)
 
-    print(f"\n{len(rows)} unique trials across {len(terms)} drugs")
+    generics = sorted({r["matched_generic"] for r in rows})
+    print(f"\n{len(rows)} unique trials across {len(generics)} drugs "
+          f"({len(terms)} search aliases)")
     print(f"  raw  -> {RAW_OUT.relative_to(ROOT)}")
     print(f"  csv  -> {CSV_OUT.relative_to(ROOT)}")
 

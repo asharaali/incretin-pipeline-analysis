@@ -4,7 +4,7 @@ Phase 1 analysis: incretin pipeline landscape + efficacy-frontier teaser.
 Reads:
     data/processed/trials.csv      (live ClinicalTrials.gov metadata)
     data/curated/drug_reference.csv
-    data/curated/efficacy_draft.csv
+    data/curated/efficacy.csv
 Writes summary tables to data/processed/ and figures to figures/.
 """
 from pathlib import Path
@@ -30,7 +30,7 @@ gattr = (ref.sort_values("highest_status")
             .agg(mechanism_class=("mechanism_class", "first"),
                  n_targets=("n_targets", "max"),
                  sponsor=("sponsor", "first"),
-                 is_marketed=("highest_status", lambda s: (s == "Marketed").any()))
+                 is_marketed=("highest_status", lambda s: s.str.startswith("Marketed").any()))
             .reset_index())
 t = trials.merge(gattr, left_on="matched_generic", right_on="generic_name", how="left")
 t["cohort"] = t["is_marketed"].map({True: "Marketed", False: "Pipeline"})
