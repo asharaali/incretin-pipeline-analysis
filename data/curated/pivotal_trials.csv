@@ -1,0 +1,18 @@
+drug_id,key_trial,nct_id,results_posted,resolution_note
+semaglutide_sc_ob,STEP 1,NCT03548935,yes,acronym match
+semaglutide_sc_t2d,SURPASS-2,NCT03987919,yes,semaglutide is the active comparator arm
+semaglutide_oral,PIONEER 1,NCT02906930,yes,acronym match
+tirzepatide_ob,SURMOUNT-1,NCT04184622,yes,acronym match
+tirzepatide_t2d,SURPASS-2,NCT03987919,yes,acronym match
+liraglutide_ob,SCALE Obesity,NCT01272219,yes,SCALE Obesity and Prediabetes; acronym not in registry title
+dulaglutide,AWARD-11,NCT03495102,yes,acronym match
+retatrutide,Retatrutide Phase 2,NCT04881760,yes,LY3437943 obesity Ph2 n=338
+orforglipron,ATTAIN-1,NCT05869903,yes,acronym match; drug approved 2026-04
+survodutide,Survodutide Phase 2,NCT04667377,yes,BI 456906 dose-finding n=387
+cagrisema,REDEFINE 1,NCT05567796,no,registered; no results posted
+mazdutide,GLORY-2,NCT06164873,no,China Ph3; no results posted
+vk2735_sc,VENTURE,NCT06068946,no,no results posted
+pemvidutide,MOMENTUM,,no,"MOMENTUM acronym absent from registry; 8 pemvidutide trials, none with results"
+amycretin_sc,Amycretin Ph1b/2a SC,NCT06542874,no,NNC0487-0111 n=448; no results posted
+amycretin_oral,Amycretin Ph1 oral,NCT05363774,no,NNC0519-0130 n=161; no results posted
+ecnoglutide,Ecnoglutide Ph3,,no,no results posted across 14 trials

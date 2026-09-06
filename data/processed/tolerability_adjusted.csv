@@ -1,0 +1,22 @@
+drug_id,nct_id,term,arm,control,pct_active,pct_control,pct_attributable
+liraglutide_ob,NCT01272219,nausea,"Liraglutide 3.0 mg, Pre-diabetes","Liraglutide Placebo, Pre-diabetes; Liraglutide Placebo, no Pre-diabetes",40.81,8.24,32.57
+liraglutide_ob,NCT01272219,vomiting,"Liraglutide 3.0 mg, Pre-diabetes","Liraglutide Placebo, Pre-diabetes; Liraglutide Placebo, no Pre-diabetes",19.69,2.67,17.02
+liraglutide_ob,NCT01272219,diarrhoea,"Liraglutide 3.0 mg, Pre-diabetes","Liraglutide Placebo, Pre-diabetes; Liraglutide Placebo, no Pre-diabetes",25.46,5.97,19.49
+semaglutide_oral,NCT02906930,nausea,Oral Semaglutide 14 mg,Placebo,16.0,5.62,10.38
+semaglutide_oral,NCT02906930,vomiting,Oral Semaglutide 14 mg,Placebo,6.86,2.25,4.61
+semaglutide_oral,NCT02906930,diarrhoea,Oral Semaglutide 14 mg,Placebo,5.14,2.25,2.89
+semaglutide_sc_ob,NCT03548935,nausea,Sema 2.4 mg,Placebo,44.1,8.7,35.4
+semaglutide_sc_ob,NCT03548935,vomiting,Sema 2.4 mg,Placebo,24.58,3.28,21.3
+semaglutide_sc_ob,NCT03548935,diarrhoea,Sema 2.4 mg,Placebo,31.47,7.94,23.53
+tirzepatide_ob,NCT04184622,nausea,15 mg Tirzepatide,Placebo,31.9,9.8,22.1
+tirzepatide_ob,NCT04184622,vomiting,15 mg Tirzepatide,Placebo,12.86,0.94,11.92
+tirzepatide_ob,NCT04184622,diarrhoea,15 mg Tirzepatide,Placebo,23.65,7.93,15.72
+survodutide,NCT04667377,nausea,4.8 mg BI 456906 - Actual Maintenance Treatment,Placebo,59.26,9.74,49.52
+survodutide,NCT04667377,vomiting,4.8 mg BI 456906 - Actual Maintenance Treatment,Placebo,24.07,2.6,21.48
+survodutide,NCT04667377,diarrhoea,4.8 mg BI 456906 - Actual Maintenance Treatment,Placebo,16.67,10.39,6.28
+retatrutide,NCT04881760,nausea,12 mg LY3437943 (2 mg),Placebo,45.16,11.43,33.73
+retatrutide,NCT04881760,vomiting,12 mg LY3437943 (2 mg),Placebo,19.35,0.71,18.64
+retatrutide,NCT04881760,diarrhoea,12 mg LY3437943 (2 mg),Placebo,14.52,11.43,3.09
+orforglipron,NCT05869903,nausea,36 mg Orforglipron,Placebo,33.65,10.44,23.21
+orforglipron,NCT05869903,vomiting,36 mg Orforglipron,Placebo,24.04,1.74,22.3
+orforglipron,NCT05869903,diarrhoea,36 mg Orforglipron,Placebo,23.08,9.6,13.48

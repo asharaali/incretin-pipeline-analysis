@@ -1,0 +1,449 @@
+nct_id,drug_id,key_trial,arm_id,arm_title,term,n_affected,n_at_risk,pct
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,abdominal distension,96,1306,7.35
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,abdominal distension,31,655,4.73
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,abdominal pain,127,1306,9.72
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,abdominal pain,36,655,5.5
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,abdominal pain upper,125,1306,9.57
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,abdominal pain upper,35,655,5.34
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,constipation,305,1306,23.35
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,constipation,62,655,9.47
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,diarrhoea,411,1306,31.47
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,diarrhoea,104,655,15.88
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,dyspepsia,135,1306,10.34
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,dyspepsia,23,655,3.51
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,eructation,112,1306,8.58
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,eructation,3,655,0.46
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,gastrooesophageal reflux disease,82,1306,6.28
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,gastrooesophageal reflux disease,20,655,3.05
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,nausea,576,1306,44.1
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,nausea,114,655,17.4
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,vomiting,321,1306,24.58
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,vomiting,43,655,6.56
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,abdominal pain,3,1306,0.23
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,abdominal pain,0,655,0.0
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,constipation,1,1306,0.08
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,constipation,0,655,0.0
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,diarrhoea,1,1306,0.08
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,diarrhoea,0,655,0.0
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,nausea,1,1306,0.08
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,nausea,0,655,0.0
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,vomiting,4,1306,0.31
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,vomiting,0,655,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,abdominal pain,14,470,2.98
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,abdominal pain,20,469,4.26
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,abdominal pain,24,470,5.11
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,abdominal pain,24,469,5.12
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,constipation,31,470,6.6
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,constipation,21,469,4.48
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,constipation,21,470,4.47
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,constipation,27,469,5.76
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,diarrhoea,62,470,13.19
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,diarrhoea,77,469,16.42
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,diarrhoea,65,470,13.83
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,diarrhoea,54,469,11.51
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,dyspepsia,34,470,7.23
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,dyspepsia,29,469,6.18
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,dyspepsia,43,470,9.15
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,dyspepsia,31,469,6.61
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,nausea,82,470,17.45
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,nausea,90,469,19.19
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,nausea,104,470,22.13
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,nausea,84,469,17.91
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,vomiting,27,470,5.74
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,vomiting,39,469,8.32
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,vomiting,46,470,9.79
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,vomiting,39,469,8.32
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,abdominal pain,0,470,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,abdominal pain,1,469,0.21
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,abdominal pain,0,470,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,abdominal pain,0,469,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,abdominal pain upper,1,470,0.21
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,abdominal pain upper,0,469,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,abdominal pain upper,1,470,0.21
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,abdominal pain upper,0,469,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,constipation,1,470,0.21
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,constipation,0,469,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,constipation,0,470,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,constipation,0,469,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,nausea,0,470,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,nausea,1,469,0.21
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,nausea,0,470,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,nausea,0,469,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,vomiting,0,470,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,vomiting,1,469,0.21
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,vomiting,0,470,0.0
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,vomiting,0,469,0.0
+NCT02906930,semaglutide_oral,PIONEER 1,EG000,Oral Semaglutide 3 mg,diarrhoea,15,175,8.57
+NCT02906930,semaglutide_oral,PIONEER 1,EG001,Oral Semaglutide 7 mg,diarrhoea,9,175,5.14
+NCT02906930,semaglutide_oral,PIONEER 1,EG002,Oral Semaglutide 14 mg,diarrhoea,9,175,5.14
+NCT02906930,semaglutide_oral,PIONEER 1,EG003,Placebo,diarrhoea,4,178,2.25
+NCT02906930,semaglutide_oral,PIONEER 1,EG000,Oral Semaglutide 3 mg,nausea,14,175,8.0
+NCT02906930,semaglutide_oral,PIONEER 1,EG001,Oral Semaglutide 7 mg,nausea,9,175,5.14
+NCT02906930,semaglutide_oral,PIONEER 1,EG002,Oral Semaglutide 14 mg,nausea,28,175,16.0
+NCT02906930,semaglutide_oral,PIONEER 1,EG003,Placebo,nausea,10,178,5.62
+NCT02906930,semaglutide_oral,PIONEER 1,EG000,Oral Semaglutide 3 mg,vomiting,5,175,2.86
+NCT02906930,semaglutide_oral,PIONEER 1,EG001,Oral Semaglutide 7 mg,vomiting,8,175,4.57
+NCT02906930,semaglutide_oral,PIONEER 1,EG002,Oral Semaglutide 14 mg,vomiting,12,175,6.86
+NCT02906930,semaglutide_oral,PIONEER 1,EG003,Placebo,vomiting,4,178,2.25
+NCT02906930,semaglutide_oral,PIONEER 1,EG000,Oral Semaglutide 3 mg,abdominal pain,1,175,0.57
+NCT02906930,semaglutide_oral,PIONEER 1,EG001,Oral Semaglutide 7 mg,abdominal pain,0,175,0.0
+NCT02906930,semaglutide_oral,PIONEER 1,EG002,Oral Semaglutide 14 mg,abdominal pain,0,175,0.0
+NCT02906930,semaglutide_oral,PIONEER 1,EG003,Placebo,abdominal pain,0,178,0.0
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG000,Placebo,abdominal pain,24,643,3.73
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG001,5 mg Tirzepatide,abdominal pain,38,630,6.03
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG002,10 mg Tirzepatide,abdominal pain,38,636,5.97
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG003,15 mg Tirzepatide,abdominal pain,33,630,5.24
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG000,Placebo,constipation,38,643,5.91
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG001,5 mg Tirzepatide,constipation,113,630,17.94
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG002,10 mg Tirzepatide,constipation,117,636,18.4
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG003,15 mg Tirzepatide,constipation,80,630,12.7
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG000,Placebo,diarrhoea,51,643,7.93
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG001,5 mg Tirzepatide,diarrhoea,128,630,20.32
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG002,10 mg Tirzepatide,diarrhoea,143,636,22.48
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG003,15 mg Tirzepatide,diarrhoea,149,630,23.65
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG000,Placebo,dyspepsia,31,643,4.82
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG001,5 mg Tirzepatide,dyspepsia,59,630,9.37
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG002,10 mg Tirzepatide,dyspepsia,64,636,10.06
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG003,15 mg Tirzepatide,dyspepsia,74,630,11.75
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG000,Placebo,eructation,4,643,0.62
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG001,5 mg Tirzepatide,eructation,24,630,3.81
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG002,10 mg Tirzepatide,eructation,35,636,5.5
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG003,15 mg Tirzepatide,eructation,35,630,5.56
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG000,Placebo,gastrooesophageal reflux disease,16,643,2.49
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG001,5 mg Tirzepatide,gastrooesophageal reflux disease,31,630,4.92
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG002,10 mg Tirzepatide,gastrooesophageal reflux disease,28,636,4.4
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG003,15 mg Tirzepatide,gastrooesophageal reflux disease,34,630,5.4
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG000,Placebo,nausea,63,643,9.8
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG001,5 mg Tirzepatide,nausea,160,630,25.4
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG002,10 mg Tirzepatide,nausea,217,636,34.12
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG003,15 mg Tirzepatide,nausea,201,630,31.9
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG000,Placebo,vomiting,12,643,1.87
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG001,5 mg Tirzepatide,vomiting,58,630,9.21
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG002,10 mg Tirzepatide,vomiting,74,636,11.64
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG003,15 mg Tirzepatide,vomiting,81,630,12.86
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG000,Placebo,constipation,0,643,0.0
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG001,5 mg Tirzepatide,constipation,0,630,0.0
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG002,10 mg Tirzepatide,constipation,1,636,0.16
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG003,15 mg Tirzepatide,constipation,0,630,0.0
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG000,Placebo,vomiting,0,643,0.0
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG001,5 mg Tirzepatide,vomiting,0,630,0.0
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG002,10 mg Tirzepatide,vomiting,1,636,0.16
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG003,15 mg Tirzepatide,vomiting,1,630,0.16
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,abdominal pain,14,470,2.98
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,abdominal pain,20,469,4.26
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,abdominal pain,24,470,5.11
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,abdominal pain,24,469,5.12
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,constipation,31,470,6.6
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,constipation,21,469,4.48
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,constipation,21,470,4.47
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,constipation,27,469,5.76
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,diarrhoea,62,470,13.19
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,diarrhoea,77,469,16.42
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,diarrhoea,65,470,13.83
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,diarrhoea,54,469,11.51
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,dyspepsia,34,470,7.23
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,dyspepsia,29,469,6.18
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,dyspepsia,43,470,9.15
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,dyspepsia,31,469,6.61
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,nausea,82,470,17.45
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,nausea,90,469,19.19
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,nausea,104,470,22.13
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,nausea,84,469,17.91
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,vomiting,27,470,5.74
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,vomiting,39,469,8.32
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,vomiting,46,470,9.79
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,vomiting,39,469,8.32
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,abdominal pain,0,470,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,abdominal pain,1,469,0.21
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,abdominal pain,0,470,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,abdominal pain,0,469,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,abdominal pain upper,1,470,0.21
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,abdominal pain upper,0,469,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,abdominal pain upper,1,470,0.21
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,abdominal pain upper,0,469,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,constipation,1,470,0.21
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,constipation,0,469,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,constipation,0,470,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,constipation,0,469,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,nausea,0,470,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,nausea,1,469,0.21
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,nausea,0,470,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,nausea,0,469,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,vomiting,0,470,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,vomiting,1,469,0.21
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,vomiting,0,470,0.0
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,vomiting,0,469,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",abdominal pain,112,1524,7.35
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",abdominal pain,37,755,4.9
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",abdominal pain,62,957,6.48
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",abdominal pain,19,487,3.9
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",abdominal pain upper,110,1524,7.22
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",abdominal pain upper,40,755,5.3
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",abdominal pain upper,63,957,6.58
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",abdominal pain upper,18,487,3.7
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",constipation,333,1524,21.85
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",constipation,85,755,11.26
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",constipation,203,957,21.21
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",constipation,44,487,9.03
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",diarrhoea,388,1524,25.46
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",diarrhoea,107,755,14.17
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",diarrhoea,201,957,21.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",diarrhoea,46,487,9.45
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",dyspepsia,156,1524,10.24
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",dyspepsia,35,755,4.64
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",dyspepsia,102,957,10.66
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",dyspepsia,14,487,2.87
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",eructation,86,1524,5.64
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",eructation,4,755,0.53
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",eructation,38,957,3.97
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",eructation,2,487,0.41
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",flatulence,81,1524,5.31
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",flatulence,22,755,2.91
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",flatulence,29,957,3.03
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",flatulence,15,487,3.08
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",gastrooesophageal reflux disease,101,1524,6.63
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",gastrooesophageal reflux disease,18,755,2.38
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",gastrooesophageal reflux disease,47,957,4.91
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",gastrooesophageal reflux disease,8,487,1.64
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",nausea,622,1524,40.81
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",nausea,128,755,16.95
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",nausea,418,957,43.68
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",nausea,78,487,16.02
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",vomiting,300,1524,19.69
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",vomiting,42,755,5.56
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",vomiting,172,957,17.97
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",vomiting,25,487,5.13
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",abdominal pain,3,1524,0.2
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",abdominal pain,0,755,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",abdominal pain,0,957,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",abdominal pain,0,487,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",abdominal pain upper,2,1524,0.13
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",abdominal pain upper,0,755,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",abdominal pain upper,0,957,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",abdominal pain upper,1,487,0.21
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",constipation,0,1524,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",constipation,0,755,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",constipation,1,957,0.1
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",constipation,0,487,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",diarrhoea,0,1524,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",diarrhoea,2,755,0.26
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",diarrhoea,0,957,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",diarrhoea,0,487,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",gastrooesophageal reflux disease,1,1524,0.07
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",gastrooesophageal reflux disease,1,755,0.13
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",gastrooesophageal reflux disease,0,957,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",gastrooesophageal reflux disease,1,487,0.21
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",nausea,1,1524,0.07
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",nausea,0,755,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",nausea,1,957,0.1
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",nausea,0,487,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",vomiting,1,1524,0.07
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",vomiting,0,755,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",vomiting,0,957,0.0
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",vomiting,0,487,0.0
+NCT03495102,dulaglutide,AWARD-11,EG000,Dulaglutide 1.5 mg,diarrhoea,48,612,7.84
+NCT03495102,dulaglutide,AWARD-11,EG001,Dulaglutide 3 mg,diarrhoea,75,616,12.18
+NCT03495102,dulaglutide,AWARD-11,EG002,Dulaglutide 4.5 mg,diarrhoea,70,614,11.4
+NCT03495102,dulaglutide,AWARD-11,EG000,Dulaglutide 1.5 mg,dyspepsia,17,612,2.78
+NCT03495102,dulaglutide,AWARD-11,EG001,Dulaglutide 3 mg,dyspepsia,33,616,5.36
+NCT03495102,dulaglutide,AWARD-11,EG002,Dulaglutide 4.5 mg,dyspepsia,18,614,2.93
+NCT03495102,dulaglutide,AWARD-11,EG000,Dulaglutide 1.5 mg,nausea,87,612,14.22
+NCT03495102,dulaglutide,AWARD-11,EG001,Dulaglutide 3 mg,nausea,99,616,16.07
+NCT03495102,dulaglutide,AWARD-11,EG002,Dulaglutide 4.5 mg,nausea,106,614,17.26
+NCT03495102,dulaglutide,AWARD-11,EG000,Dulaglutide 1.5 mg,vomiting,40,612,6.54
+NCT03495102,dulaglutide,AWARD-11,EG001,Dulaglutide 3 mg,vomiting,57,616,9.25
+NCT03495102,dulaglutide,AWARD-11,EG002,Dulaglutide 4.5 mg,vomiting,64,614,10.42
+NCT03495102,dulaglutide,AWARD-11,EG000,Dulaglutide 1.5 mg,abdominal pain,1,612,0.16
+NCT03495102,dulaglutide,AWARD-11,EG001,Dulaglutide 3 mg,abdominal pain,0,616,0.0
+NCT03495102,dulaglutide,AWARD-11,EG002,Dulaglutide 4.5 mg,abdominal pain,2,614,0.33
+NCT03495102,dulaglutide,AWARD-11,EG000,Dulaglutide 1.5 mg,abdominal pain upper,0,612,0.0
+NCT03495102,dulaglutide,AWARD-11,EG001,Dulaglutide 3 mg,abdominal pain upper,0,616,0.0
+NCT03495102,dulaglutide,AWARD-11,EG002,Dulaglutide 4.5 mg,abdominal pain upper,1,614,0.16
+NCT03495102,dulaglutide,AWARD-11,EG000,Dulaglutide 1.5 mg,diarrhoea,0,612,0.0
+NCT03495102,dulaglutide,AWARD-11,EG001,Dulaglutide 3 mg,diarrhoea,0,616,0.0
+NCT03495102,dulaglutide,AWARD-11,EG002,Dulaglutide 4.5 mg,diarrhoea,1,614,0.16
+NCT03495102,dulaglutide,AWARD-11,EG000,Dulaglutide 1.5 mg,gastrooesophageal reflux disease,0,612,0.0
+NCT03495102,dulaglutide,AWARD-11,EG001,Dulaglutide 3 mg,gastrooesophageal reflux disease,1,616,0.16
+NCT03495102,dulaglutide,AWARD-11,EG002,Dulaglutide 4.5 mg,gastrooesophageal reflux disease,0,614,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG000,Placebo,abdominal distension,0,70,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG001,1 mg LY3437943,abdominal distension,0,69,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG002,4 mg LY3437943 (2 mg),abdominal distension,0,33,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG003,4 mg LY3437943,abdominal distension,0,33,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG004,8 mg LY3437943 (2 mg),abdominal distension,0,35,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG005,8 mg LY3437943 (4 mg),abdominal distension,2,35,5.71
+NCT04881760,retatrutide,Retatrutide Phase 2,EG006,12 mg LY3437943 (2 mg),abdominal distension,5,62,8.06
+NCT04881760,retatrutide,Retatrutide Phase 2,EG000,Placebo,abdominal pain,2,70,2.86
+NCT04881760,retatrutide,Retatrutide Phase 2,EG001,1 mg LY3437943,abdominal pain,1,69,1.45
+NCT04881760,retatrutide,Retatrutide Phase 2,EG002,4 mg LY3437943 (2 mg),abdominal pain,1,33,3.03
+NCT04881760,retatrutide,Retatrutide Phase 2,EG003,4 mg LY3437943,abdominal pain,0,33,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG004,8 mg LY3437943 (2 mg),abdominal pain,2,35,5.71
+NCT04881760,retatrutide,Retatrutide Phase 2,EG005,8 mg LY3437943 (4 mg),abdominal pain,1,35,2.86
+NCT04881760,retatrutide,Retatrutide Phase 2,EG006,12 mg LY3437943 (2 mg),abdominal pain,2,62,3.23
+NCT04881760,retatrutide,Retatrutide Phase 2,EG000,Placebo,abdominal pain upper,2,70,2.86
+NCT04881760,retatrutide,Retatrutide Phase 2,EG001,1 mg LY3437943,abdominal pain upper,3,69,4.35
+NCT04881760,retatrutide,Retatrutide Phase 2,EG002,4 mg LY3437943 (2 mg),abdominal pain upper,1,33,3.03
+NCT04881760,retatrutide,Retatrutide Phase 2,EG003,4 mg LY3437943,abdominal pain upper,0,33,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG004,8 mg LY3437943 (2 mg),abdominal pain upper,3,35,8.57
+NCT04881760,retatrutide,Retatrutide Phase 2,EG005,8 mg LY3437943 (4 mg),abdominal pain upper,2,35,5.71
+NCT04881760,retatrutide,Retatrutide Phase 2,EG006,12 mg LY3437943 (2 mg),abdominal pain upper,3,62,4.84
+NCT04881760,retatrutide,Retatrutide Phase 2,EG000,Placebo,constipation,2,70,2.86
+NCT04881760,retatrutide,Retatrutide Phase 2,EG001,1 mg LY3437943,constipation,5,69,7.25
+NCT04881760,retatrutide,Retatrutide Phase 2,EG002,4 mg LY3437943 (2 mg),constipation,5,33,15.15
+NCT04881760,retatrutide,Retatrutide Phase 2,EG003,4 mg LY3437943,constipation,2,33,6.06
+NCT04881760,retatrutide,Retatrutide Phase 2,EG004,8 mg LY3437943 (2 mg),constipation,4,35,11.43
+NCT04881760,retatrutide,Retatrutide Phase 2,EG005,8 mg LY3437943 (4 mg),constipation,4,35,11.43
+NCT04881760,retatrutide,Retatrutide Phase 2,EG006,12 mg LY3437943 (2 mg),constipation,10,62,16.13
+NCT04881760,retatrutide,Retatrutide Phase 2,EG000,Placebo,diarrhoea,8,70,11.43
+NCT04881760,retatrutide,Retatrutide Phase 2,EG001,1 mg LY3437943,diarrhoea,6,69,8.7
+NCT04881760,retatrutide,Retatrutide Phase 2,EG002,4 mg LY3437943 (2 mg),diarrhoea,4,33,12.12
+NCT04881760,retatrutide,Retatrutide Phase 2,EG003,4 mg LY3437943,diarrhoea,4,33,12.12
+NCT04881760,retatrutide,Retatrutide Phase 2,EG004,8 mg LY3437943 (2 mg),diarrhoea,7,35,20.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG005,8 mg LY3437943 (4 mg),diarrhoea,7,35,20.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG006,12 mg LY3437943 (2 mg),diarrhoea,9,62,14.52
+NCT04881760,retatrutide,Retatrutide Phase 2,EG000,Placebo,dyspepsia,2,70,2.86
+NCT04881760,retatrutide,Retatrutide Phase 2,EG001,1 mg LY3437943,dyspepsia,1,69,1.45
+NCT04881760,retatrutide,Retatrutide Phase 2,EG002,4 mg LY3437943 (2 mg),dyspepsia,2,33,6.06
+NCT04881760,retatrutide,Retatrutide Phase 2,EG003,4 mg LY3437943,dyspepsia,0,33,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG004,8 mg LY3437943 (2 mg),dyspepsia,2,35,5.71
+NCT04881760,retatrutide,Retatrutide Phase 2,EG005,8 mg LY3437943 (4 mg),dyspepsia,2,35,5.71
+NCT04881760,retatrutide,Retatrutide Phase 2,EG006,12 mg LY3437943 (2 mg),dyspepsia,5,62,8.06
+NCT04881760,retatrutide,Retatrutide Phase 2,EG000,Placebo,gastrooesophageal reflux disease,1,70,1.43
+NCT04881760,retatrutide,Retatrutide Phase 2,EG001,1 mg LY3437943,gastrooesophageal reflux disease,1,69,1.45
+NCT04881760,retatrutide,Retatrutide Phase 2,EG002,4 mg LY3437943 (2 mg),gastrooesophageal reflux disease,2,33,6.06
+NCT04881760,retatrutide,Retatrutide Phase 2,EG003,4 mg LY3437943,gastrooesophageal reflux disease,3,33,9.09
+NCT04881760,retatrutide,Retatrutide Phase 2,EG004,8 mg LY3437943 (2 mg),gastrooesophageal reflux disease,3,35,8.57
+NCT04881760,retatrutide,Retatrutide Phase 2,EG005,8 mg LY3437943 (4 mg),gastrooesophageal reflux disease,0,35,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG006,12 mg LY3437943 (2 mg),gastrooesophageal reflux disease,4,62,6.45
+NCT04881760,retatrutide,Retatrutide Phase 2,EG000,Placebo,nausea,8,70,11.43
+NCT04881760,retatrutide,Retatrutide Phase 2,EG001,1 mg LY3437943,nausea,10,69,14.49
+NCT04881760,retatrutide,Retatrutide Phase 2,EG002,4 mg LY3437943 (2 mg),nausea,6,33,18.18
+NCT04881760,retatrutide,Retatrutide Phase 2,EG003,4 mg LY3437943,nausea,12,33,36.36
+NCT04881760,retatrutide,Retatrutide Phase 2,EG004,8 mg LY3437943 (2 mg),nausea,6,35,17.14
+NCT04881760,retatrutide,Retatrutide Phase 2,EG005,8 mg LY3437943 (4 mg),nausea,21,35,60.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG006,12 mg LY3437943 (2 mg),nausea,28,62,45.16
+NCT04881760,retatrutide,Retatrutide Phase 2,EG000,Placebo,vomiting,1,70,1.43
+NCT04881760,retatrutide,Retatrutide Phase 2,EG001,1 mg LY3437943,vomiting,2,69,2.9
+NCT04881760,retatrutide,Retatrutide Phase 2,EG002,4 mg LY3437943 (2 mg),vomiting,4,33,12.12
+NCT04881760,retatrutide,Retatrutide Phase 2,EG003,4 mg LY3437943,vomiting,4,33,12.12
+NCT04881760,retatrutide,Retatrutide Phase 2,EG004,8 mg LY3437943 (2 mg),vomiting,2,35,5.71
+NCT04881760,retatrutide,Retatrutide Phase 2,EG005,8 mg LY3437943 (4 mg),vomiting,9,35,25.71
+NCT04881760,retatrutide,Retatrutide Phase 2,EG006,12 mg LY3437943 (2 mg),vomiting,12,62,19.35
+NCT04881760,retatrutide,Retatrutide Phase 2,EG000,Placebo,vomiting,0,70,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG001,1 mg LY3437943,vomiting,0,69,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG002,4 mg LY3437943 (2 mg),vomiting,0,33,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG003,4 mg LY3437943,vomiting,0,33,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG004,8 mg LY3437943 (2 mg),vomiting,0,35,0.0
+NCT04881760,retatrutide,Retatrutide Phase 2,EG005,8 mg LY3437943 (4 mg),vomiting,1,35,2.86
+NCT04881760,retatrutide,Retatrutide Phase 2,EG006,12 mg LY3437943 (2 mg),vomiting,0,62,0.0
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,abdominal distension,32,948,3.38
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,abdominal distension,52,723,7.19
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,abdominal distension,68,724,9.39
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,abdominal distension,62,728,8.52
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,abdominal pain,25,948,2.64
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,abdominal pain,38,723,5.26
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,abdominal pain,50,724,6.91
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,abdominal pain,44,728,6.04
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,abdominal pain upper,33,948,3.48
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,abdominal pain upper,44,723,6.09
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,abdominal pain upper,45,724,6.22
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,abdominal pain upper,57,728,7.83
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,constipation,88,948,9.28
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,constipation,156,723,21.58
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,constipation,216,724,29.83
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,constipation,185,728,25.41
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,diarrhoea,91,948,9.6
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,diarrhoea,152,723,21.02
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,diarrhoea,165,724,22.79
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,diarrhoea,168,728,23.08
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,dyspepsia,47,948,4.96
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,dyspepsia,95,723,13.14
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,dyspepsia,117,724,16.16
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,dyspepsia,103,728,14.15
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,eructation,10,948,1.05
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,eructation,44,723,6.09
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,eructation,43,724,5.94
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,eructation,55,728,7.55
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,flatulence,17,948,1.79
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,flatulence,31,723,4.29
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,flatulence,40,724,5.52
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,flatulence,41,728,5.63
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,gastrooesophageal reflux disease,21,948,2.22
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,gastrooesophageal reflux disease,40,723,5.53
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,gastrooesophageal reflux disease,42,724,5.8
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,gastrooesophageal reflux disease,46,728,6.32
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,nausea,99,948,10.44
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,nausea,209,723,28.91
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,nausea,260,724,35.91
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,nausea,245,728,33.65
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,vomiting,33,948,3.48
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,vomiting,94,723,13.0
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,vomiting,155,724,21.41
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,vomiting,175,728,24.04
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,constipation,0,948,0.0
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,constipation,1,723,0.14
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,constipation,0,724,0.0
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,constipation,0,728,0.0
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,vomiting,0,948,0.0
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,vomiting,0,723,0.0
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,vomiting,1,724,0.14
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,vomiting,0,728,0.0
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,abdominal distension,4,92,4.35
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,abdominal distension,4,92,4.35
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,abdominal distension,7,71,9.86
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,abdominal distension,3,54,5.56
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,abdominal distension,3,77,3.9
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,abdominal pain,4,92,4.35
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,abdominal pain,10,92,10.87
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,abdominal pain,5,71,7.04
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,abdominal pain,3,54,5.56
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,abdominal pain,1,77,1.3
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,abdominal pain upper,3,92,3.26
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,abdominal pain upper,5,92,5.43
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,abdominal pain upper,8,71,11.27
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,abdominal pain upper,2,54,3.7
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,abdominal pain upper,1,77,1.3
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,constipation,11,92,11.96
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,constipation,19,92,20.65
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,constipation,22,71,30.99
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,constipation,13,54,24.07
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,constipation,4,77,5.19
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,diarrhoea,22,92,23.91
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,diarrhoea,21,92,22.83
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,diarrhoea,17,71,23.94
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,diarrhoea,9,54,16.67
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,diarrhoea,8,77,10.39
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,dyspepsia,7,92,7.61
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,dyspepsia,9,92,9.78
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,dyspepsia,8,71,11.27
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,dyspepsia,7,54,12.96
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,dyspepsia,3,77,3.9
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,eructation,4,92,4.35
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,eructation,6,92,6.52
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,eructation,5,71,7.04
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,eructation,2,54,3.7
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,eructation,0,77,0.0
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,gastrooesophageal reflux disease,2,92,2.17
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,gastrooesophageal reflux disease,7,92,7.61
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,gastrooesophageal reflux disease,10,71,14.08
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,gastrooesophageal reflux disease,5,54,9.26
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,gastrooesophageal reflux disease,3,77,3.9
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,nausea,36,92,39.13
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,nausea,60,92,65.22
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,nausea,45,71,63.38
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,nausea,32,54,59.26
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,nausea,15,77,19.48
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,vomiting,13,92,14.13
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,vomiting,28,92,30.43
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,vomiting,28,71,39.44
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,vomiting,13,54,24.07
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,vomiting,4,77,5.19
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,nausea,1,92,1.09
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,nausea,0,92,0.0
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,nausea,0,71,0.0
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,nausea,0,54,0.0
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,nausea,0,77,0.0
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,vomiting,1,92,1.09
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,vomiting,0,92,0.0
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,vomiting,0,71,0.0
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,vomiting,0,54,0.0
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,vomiting,0,77,0.0

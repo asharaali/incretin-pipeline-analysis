@@ -27,7 +27,7 @@ CSV_OUT = ROOT / "data" / "processed" / "trials.csv"
 FIELDS = ",".join([
     "NCTId", "BriefTitle", "Phase", "OverallStatus", "StudyType",
     "Condition", "InterventionName", "LeadSponsorName", "LeadSponsorClass",
-    "EnrollmentCount", "StartDate", "PrimaryCompletionDate",
+    "EnrollmentCount", "StartDate", "PrimaryCompletionDate", "HasResults",
 ])
 
 
@@ -96,6 +96,7 @@ def flatten(study, matched_term, matched_generic):
         "sponsor_class": get(p, "sponsorCollaboratorsModule", "leadSponsor", "class", default=""),
         "conditions": "|".join(get(p, "conditionsModule", "conditions", default=[]) or []),
         "interventions": "|".join(i.get("name", "") for i in interventions),
+        "has_results": "yes" if study.get("hasResults") else "no",
         "start_date": get(p, "statusModule", "startDateStruct", "date", default=""),
         "primary_completion": get(p, "statusModule", "primaryCompletionDateStruct", "date", default=""),
         "matched_term": matched_term,

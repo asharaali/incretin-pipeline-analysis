@@ -1,0 +1,15 @@
+generic_name,trials,trials_with_results,pct_with_results,late_phase_trials,late_phase_with_results,pct_late_phase_with_results
+semaglutide,604,90,14.9,339,86,25.4
+liraglutide,480,139,29.0,296,120,40.5
+tirzepatide,251,41,16.3,146,24,16.4
+dulaglutide,132,59,44.7,77,43,55.8
+orforglipron,53,25,47.2,32,7,21.9
+mazdutide,41,1,2.4,23,1,4.3
+retatrutide,33,2,6.1,18,2,11.1
+amycretin,33,0,0.0,14,0,0.0
+cagrilintide+semaglutide,30,0,0.0,22,0,0.0
+survodutide,26,2,7.7,12,2,16.7
+danuglipron,20,11,55.0,3,3,100.0
+ecnoglutide,14,0,0.0,9,0,0.0
+pemvidutide,8,0,0.0,4,0,0.0
+VK2735,5,0,0.0,4,0,0.0

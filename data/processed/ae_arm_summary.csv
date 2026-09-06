@@ -1,0 +1,42 @@
+nct_id,drug_id,key_trial,arm_id,arm_title,n_at_risk,deaths,serious_ae_n,serious_ae_pct,study_withdrawal_ae_n,study_withdrawal_ae_pct,arm_alignment
+NCT03548935,semaglutide_sc_ob,STEP 1,EG000,Sema 2.4 mg,1306,1,128,9.8,,,positional
+NCT03548935,semaglutide_sc_ob,STEP 1,EG001,Placebo,655,1,42,6.41,,,positional
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG000,5 mg Tirzepatide,470,4,33,7.02,1,0.21,positional
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG001,10 mg Tirzepatide,469,4,25,5.33,4,0.85,positional
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG002,15 mg Tirzepatide,470,4,27,5.74,1,0.21,positional
+NCT03987919,semaglutide_sc_t2d,SURPASS-2,EG003,1 mg Semaglutide,469,1,13,2.77,3,0.64,positional
+NCT02906930,semaglutide_oral,PIONEER 1,EG000,Oral Semaglutide 3 mg,175,0,5,2.86,,,positional
+NCT02906930,semaglutide_oral,PIONEER 1,EG001,Oral Semaglutide 7 mg,175,0,3,1.71,,,positional
+NCT02906930,semaglutide_oral,PIONEER 1,EG002,Oral Semaglutide 14 mg,175,1,2,1.14,,,positional
+NCT02906930,semaglutide_oral,PIONEER 1,EG003,Placebo,178,0,8,4.49,,,positional
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG000,Placebo,643,4,53,8.24,13,2.02,positional
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG001,5 mg Tirzepatide,630,4,57,9.05,14,2.22,positional
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG002,10 mg Tirzepatide,636,3,60,9.43,18,2.83,positional
+NCT04184622,tirzepatide_ob,SURMOUNT-1,EG003,15 mg Tirzepatide,630,2,50,7.94,22,3.49,positional
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG000,5 mg Tirzepatide,470,4,33,7.02,1,0.21,positional
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG001,10 mg Tirzepatide,469,4,25,5.33,4,0.85,positional
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG002,15 mg Tirzepatide,470,4,27,5.74,1,0.21,positional
+NCT03987919,tirzepatide_t2d,SURPASS-2,EG003,1 mg Semaglutide,469,1,13,2.77,3,0.64,positional
+NCT01272219,liraglutide_ob,SCALE Obesity,EG000,"Liraglutide 3.0 mg, Pre-diabetes",1524,,230,15.09,,,unmatched
+NCT01272219,liraglutide_ob,SCALE Obesity,EG001,"Liraglutide Placebo, Pre-diabetes",755,,96,12.72,,,unmatched
+NCT01272219,liraglutide_ob,SCALE Obesity,EG002,"Liraglutide 3.0 mg, no Pre-diabetes",957,,59,6.17,,,unmatched
+NCT01272219,liraglutide_ob,SCALE Obesity,EG003,"Liraglutide Placebo, no Pre-diabetes",487,,19,3.9,,,unmatched
+NCT03495102,dulaglutide,AWARD-11,EG000,Dulaglutide 1.5 mg,612,3,53,8.66,5,0.82,positional
+NCT03495102,dulaglutide,AWARD-11,EG001,Dulaglutide 3 mg,616,4,45,7.31,7,1.14,positional
+NCT03495102,dulaglutide,AWARD-11,EG002,Dulaglutide 4.5 mg,614,4,38,6.19,10,1.63,positional
+NCT04881760,retatrutide,Retatrutide Phase 2,EG000,Placebo,70,0,3,4.29,0,0.0,positional
+NCT04881760,retatrutide,Retatrutide Phase 2,EG001,1 mg LY3437943,69,0,3,4.35,1,1.45,positional
+NCT04881760,retatrutide,Retatrutide Phase 2,EG002,4 mg LY3437943 (2 mg),33,0,0,0.0,1,3.03,positional
+NCT04881760,retatrutide,Retatrutide Phase 2,EG003,4 mg LY3437943,33,1,2,6.06,0,0.0,positional
+NCT04881760,retatrutide,Retatrutide Phase 2,EG004,8 mg LY3437943 (2 mg),35,0,1,2.86,1,2.86,positional
+NCT04881760,retatrutide,Retatrutide Phase 2,EG005,8 mg LY3437943 (4 mg),35,0,2,5.71,1,2.86,positional
+NCT04881760,retatrutide,Retatrutide Phase 2,EG006,12 mg LY3437943 (2 mg),62,0,2,3.23,2,3.23,positional
+NCT05869903,orforglipron,ATTAIN-1,EG000,Placebo,948,1,46,4.85,10,1.05,positional
+NCT05869903,orforglipron,ATTAIN-1,EG001,6 mg Orforglipron,723,1,40,5.53,8,1.11,positional
+NCT05869903,orforglipron,ATTAIN-1,EG002,12 mg Orforglipron,724,1,39,5.39,13,1.79,positional
+NCT05869903,orforglipron,ATTAIN-1,EG003,36 mg Orforglipron,728,0,28,3.85,16,2.19,positional
+NCT04667377,survodutide,Survodutide Phase 2,EG000,0.6 mg BI 456906 - Actual Maintenance Treatment,92,0,2,2.17,11,14.1,positional
+NCT04667377,survodutide,Survodutide Phase 2,EG001,2.4 mg BI 456906 - Actual Maintenance Treatment,92,0,3,3.26,18,23.08,positional
+NCT04667377,survodutide,Survodutide Phase 2,EG002,3.6 mg BI 456906 - Actual Maintenance Treatment,71,0,4,5.63,17,22.08,positional
+NCT04667377,survodutide,Survodutide Phase 2,EG003,4.8 mg BI 456906 - Actual Maintenance Treatment,54,0,4,7.41,21,27.27,positional
+NCT04667377,survodutide,Survodutide Phase 2,EG004,Placebo,77,0,5,6.49,4,5.19,positional
