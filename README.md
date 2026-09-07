@@ -79,14 +79,19 @@ carries `status_asof` + `status_source` columns in `drug_reference.csv`.
 
 ## Phase 2 findings
 
-**Tirzepatide dominates semaglutide on both axes.** At top dose it produces more weight loss
-(20.9% vs 14.9%) *and* less drug-attributable nausea (22.1 vs 35.4 percentage points over each
-trial's own control arm). That is not the trade-off the mechanism-complexity story predicts, and
-it is visible only once nausea is placebo-adjusted.
+**Tirzepatide appears to beat semaglutide on both axes in this dataset** (20.9% vs 14.9% weight
+loss; 22.1 vs 35.4 percentage points of nausea over each trial's own control arm).
 
-**Survodutide is the tolerability outlier** — 49.5 pp attributable nausea for 14.9% weight loss,
-the worst ratio in the set. **Liraglutide is dominated by everything**: least weight loss (8.0%),
-32.6 pp nausea.
+⚠️ **Do not cite that as a finding.** It is a *naive indirect comparison*: the two drugs' rates come
+from separate, unconnected trials, so population, duration and dose-escalation differences are
+folded into the gap. Published anchored network meta-analyses using proper methods report **no
+significant difference in GI adverse events** between the two (e.g. PMC12444735, PMC12532569).
+Where this analysis disagrees with an NMA, the NMA is right. The number is kept here as a worked
+example of why cross-trial subtraction fails, not as a result.
+
+**Survodutide carries the highest attributable nausea in the set** (49.5 pp for 14.9% weight loss)
+and **liraglutide the least weight loss** (8.0%). Same caveat applies: these are descriptive
+positions in a landscape, not comparative claims.
 
 **Half the frontier cannot be evaluated at all.** CagriSema, amycretin, VK2735, pemvidutide,
 ecnoglutide and mazdutide have **no adverse-event data in the public registry** — zero posted
@@ -98,6 +103,14 @@ currently has the least ability to assess.
 is due 12 months after primary completion, so a candidate that entered Phase 3 in 2026 *cannot*
 have posted what a drug approved in 2014 has. The supportable claim is about **availability** —
 these drugs cannot yet be judged on public evidence — not about concealment.
+
+### The honest limit of this analysis
+
+Figures 05 and 07 place drugs in a landscape; they do not rank them. Any real comparative claim
+about efficacy or tolerability in this class needs an anchored network meta-analysis, and several
+already exist. **The contribution here is figure 06**: what the public record can and cannot
+answer. That question is about the registry, not about the drugs, and cross-trial heterogeneity
+does not undermine it.
 
 ### Method notes that matter
 
