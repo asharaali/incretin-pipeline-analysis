@@ -16,9 +16,12 @@ The incretin field is moving along three measurable axes:
    → triple (GLP-1/GIP/glucagon) agonists, with amylin combinations emerging.
 2. **Efficacy scales with mechanism complexity** — peak weight loss climbs from ~8–15% (mono) to
    ~19–23% (dual) to ~24% (triple).
-3. **The route of administration has shifted** — this stopped being a prediction. Orforglipron,
-   an oral small molecule, was **FDA-approved 1 Apr 2026 (Foundayo)**; oral-peptide candidates
-   (amycretin, oral VK2735) are behind it.
+3. **The route of administration has already shifted.** Orforglipron, an oral small molecule, was
+   **FDA-approved 1 Apr 2026 (Foundayo)** — the first GLP-1 pill for weight loss without food or
+   water timing restrictions. Oral-peptide candidates (amycretin, oral VK2735) are behind it.
+   *This project's v1, written June 2026, still filed orforglipron as pipeline: the approval was
+   already ~12 weeks old and the analysis had not caught it. That is the case for refreshing a
+   live-data project on a schedule rather than treating a snapshot as done.*
 
 This project quantifies all three using live regulatory data and curated pivotal-trial outcomes.
 
